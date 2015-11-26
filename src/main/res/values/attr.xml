@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgress">
+        <attr name="Progress" format="integer"></attr>
+        <attr name="circleWidth" format="float"></attr>
+    </declare-styleable>
+</resources>
